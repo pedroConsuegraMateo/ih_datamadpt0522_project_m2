@@ -65,7 +65,7 @@ A BI Report/Dashboard is not exactly a sequential set of descriptive charts. Ins
 
 ## **References:**
 
-- [Visual Analysis Best Practices](https://github.com/ih-datapt-mad/ih_datamadpt1121_project_m2/blob/main/images/visual-analysis-guidebook.pdf)
+- [Visual Analysis Best Practices](https://github.com/ih-datapt-mad/ih_datamadpt0522_project_m2/blob/main/images/visual-analysis-guidebook.pdf)
 
 - [Financial Times Visual Vocabulary](https://github.com/ft-interactive/chart-doctor/tree/master/visual-vocabulary)
 
